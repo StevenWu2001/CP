@@ -1,4 +1,5 @@
 // Template For Java Codeforce 
+// Reference https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming/
 import java.io.*;
 import java.util.*;
 
